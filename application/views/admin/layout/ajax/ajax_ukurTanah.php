@@ -1,6 +1,6 @@
 <!-- library Maps -->
 <input type="text" id="tx" name="">
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_tAQD36pKp9v4at5AnpGbvBUsLCOSJx8&libraries=geometry,drawing"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=TAMBAH KAN API KEY ANDA &libraries=geometry,drawing"></script>
 <script src="<?=base_url('assets/')?>node_modules/measuretool-googlemaps-v3/lib/MeasureTool.js"></script>
 <script src="<?=base_url('assets/')?>js-map-label/src/maplabel-compiled.js"></script>
 <script type="text/javascript" src="<?=base_url('assets/')?>node_modules/html2canvas/dist/html2canvas.min.js"></script>
