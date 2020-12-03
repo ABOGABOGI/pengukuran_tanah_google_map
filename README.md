@@ -14,3 +14,8 @@ catatan : untuk penggunaan nya klik 2x pada saat menghitung
 2x Menghitung Luas
 
 ![alt text](https://1.bp.blogspot.com/-2az25h7I6MM/X8kuXisV07I/AAAAAAAABao/1YBf-apcy2wXM0KzxQudOHGJZljht-SfACLcBGAsYHQ/s16000/gisLuasTanah.JPG?raw=true)
+
+
+
+<br/>
+<p>semoga bermamfaat &copy; 2020 Ego Oktafanda.</p>
