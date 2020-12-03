@@ -14,4 +14,4 @@ catatan : untuk penggunaan nya klik 2x pada saat menghitung
 1x Compile 
 2x Menghitung Luas
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
