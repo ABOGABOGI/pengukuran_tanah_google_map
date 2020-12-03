@@ -12,6 +12,7 @@ sistem ini hanya untuk pendukung keputusan karna pengukuran tanah nya pasti tida
 catatan : untuk penggunaan nya klik 2x pada saat menghitung 
 1x Compile 
 2x Menghitung Luas
+& UNTUK API KEY MAPS NYA PAKAI KEY ANDA , UNTUK PASANG ADA PADA application/views/admin/layout/ajax/ajax_ukurTanah.php
 
 ![alt text](https://1.bp.blogspot.com/-2az25h7I6MM/X8kuXisV07I/AAAAAAAABao/1YBf-apcy2wXM0KzxQudOHGJZljht-SfACLcBGAsYHQ/s16000/gisLuasTanah.JPG?raw=true)
 
